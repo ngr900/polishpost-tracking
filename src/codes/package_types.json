@@ -1,0 +1,342 @@
+{
+  "AA": {
+    "PL": "Paczka pocztowa Atestowa",
+    "EN": "Paczka pocztowa Atestowa"
+  },
+  "B": {
+    "PL": "Pocztex Kurier 48",
+    "EN": "Pocztex Courier 48"
+  },
+  "BPR": {
+    "PL": "Przesyłka biznesowa PLUS",
+    "EN": "Business Packet PLUS"
+  },
+  "CCRI": {
+    "PL": "CCRI (IBRS)",
+    "EN": "CCRI (IBRS)"
+  },
+  "CK": {
+    "PL": "Cekogram",
+    "EN": "Cekogram"
+  },
+  "DA": {
+    "PL": "Druk adresowy",
+    "EN": "Druk adresowy"
+  },
+  "DB": {
+    "PL": "Druk bezadresowy",
+    "EN": "Druk bezadresowy"
+  },
+  "E": {
+    "PL": "EMS zwykly",
+    "EN": "EMS Regular"
+  },
+  "E05": {
+    "PL": "EMS 0",
+    "EN": "EMS 0"
+  },
+  "E1": {
+    "PL": "EMS Kilo Pack",
+    "EN": "EMS Kilo Pack"
+  },
+  "ED": {
+    "PL": "EMS Document Pack",
+    "EN": "EMS Document Pack"
+  },
+  "EF1": {
+    "PL": "EMS Full Pack 1",
+    "EN": "EMS Full Pack 1"
+  },
+  "EF2": {
+    "PL": "EMS Full Pack 2",
+    "EN": "EMS Full Pack 2"
+  },
+  "EK": {
+    "PL": "Paczka Mini",
+    "EN": "Parcel Mini"
+  },
+  "EL": {
+    "PL": "E-Przesyłka list",
+    "EN": "E-Packet"
+  },
+  "ELB": {
+    "PL": "E-Przesyłka list pobranie",
+    "EN": "E-Packet COD"
+  },
+  "EM": {
+    "PL": "EMS Maxi Pack 50",
+    "EN": "EMS Maxi Pack 50"
+  },
+  "EM_": {
+    "PL": "EMS Towary",
+    "EN": "EMS Goods"
+  },
+  "EMS": {
+    "PL": "EMS - Przesyłka kurierska zagraniczna",
+    "EN": "EMS - International Courier Packet"
+  },
+  "EMS1": {
+    "PL": "EMS Kilo Pack",
+    "EN": "EMS Kilo Pack"
+  },
+  "EMSD": {
+    "PL": "EMS Document Pack",
+    "EN": "EMS Document Pack"
+  },
+  "EP": {
+    "PL": "E-Przesyłka paczka",
+    "EN": "E-Packet Parcel"
+  },
+  "EPB": {
+    "PL": "E-Przesyłka paczka pobranie",
+    "EN": "E-Packet Parcel COD"
+  },
+  "EUKPR": {
+    "PL": "Express Ukraina",
+    "EN": "Express Ukraine"
+  },
+  "EXP": {
+    "PL": "GLOBAL Expres",
+    "EN": "GLOBAL Expres"
+  },
+  "G": {
+    "PL": "Przesyłka gabarytowa ekonomiczna",
+    "EN": "Large Packet Economy"
+  },
+  "GPR": {
+    "PL": "Przesyłka gabarytowa priorytetowa",
+    "EN": "Large Packet Priority"
+  },
+  "HPR": {
+    "PL": "Przesyłka hybrydowa rejestrowana",
+    "EN": "Registered Hybrid Packet"
+  },
+  "K": {
+    "PL": "List zwykły kartowany ekonomiczny",
+    "EN": "List zwykły kartowany ekonomiczny"
+  },
+  "KPR": {
+    "PL": "List zwykły kartowany priorytetowy",
+    "EN": "List zwykły kartowany priorytetowy"
+  },
+  "L": {
+    "PL": "List zwykły ekonomiczny",
+    "EN": "Regular mail"
+  },
+  "LB": {
+    "PL": "Przesyłka pobraniowa ekonomiczna list",
+    "EN": "Economy Packet COD"
+  },
+  "LBPR": {
+    "PL": "Przesyłka pobraniowa priorytetowa list",
+    "EN": "Priority Packet COD"
+  },
+  "LD": {
+    "PL": "List dworcowy",
+    "EN": "List dworcowy"
+  },
+  "LPR": {
+    "PL": "List zwykły priorytetowy",
+    "EN": "Regular Priority Mail"
+  },
+  "LW": {
+    "PL": "List wartościowy ekonomiczny",
+    "EN": "High Value Economy Packet"
+  },
+  "LWB": {
+    "PL": "E-Przesyłka list pobranie",
+    "EN": "E-Packet COD"
+  },
+  "LWPR": {
+    "PL": "List wartościowy priorytetowy",
+    "EN": "High Value Priority Packet"
+  },
+  "LWS": {
+    "PL": "E-Przesyłka list",
+    "EN": "E-Packet"
+  },
+  "M": {
+    "PL": "Worek M",
+    "EN": "M Bag"
+  },
+  "MEK": {
+    "PL": "Worek specjalny M ekonomiczny",
+    "EN": "M Bag Economy Special"
+  },
+  "MP": {
+    "PL": "Multi Paczka Ekonomiczna",
+    "EN": "Multi-Parcel Economy"
+  },
+  "MPPR": {
+    "PL": "Multi Paczka Priorytetowa",
+    "EN": "Multi-Parcel Priority"
+  },
+  "MPR": {
+    "PL": "Worek M priorytetowy",
+    "EN": "M Bag Priority"
+  },
+  "MR": {
+    "PL": "Worek M polecony ekonomiczny",
+    "EN": "M Bag Registered Economy"
+  },
+  "MREK": {
+    "PL": "Worek polecony M ekonomiczny",
+    "EN": "M Bag Registered Economy"
+  },
+  "MRPR": {
+    "PL": "Worek M polecony priorytetowy",
+    "EN": "M Bag Registered Priority"
+  },
+  "N": {
+    "PL": "Nieokreślony typ",
+    "EN": "Unknown type"
+  },
+  "NZNP": {
+    "PL": "Przesyłka nierejestrowana z numerem",
+    "EN": "Numbered Unregistered Packet"
+  },
+  "NZNPR": {
+    "PL": "Przesyłka nierejestrowana z numerem priorytetowa",
+    "EN": "Numbered Unregistered Priority Packet"
+  },
+  "P": {
+    "PL": "Paczka pocztowa ekonomiczna",
+    "EN": "Parcel Economy"
+  },
+  "PAK": {
+    "PL": "Pakiet bez karty",
+    "EN": "Pakiet bez karty"
+  },
+  "PB": {
+    "PL": "Przesyłka pobraniowa ekonomiczna paczka",
+    "EN": "COD Parcel Economy"
+  },
+  "PBPR": {
+    "PL": "Przesyłka pobraniowa priorytetowa paczka",
+    "EN": "COD Parcel Priority"
+  },
+  "PD": {
+    "PL": "Przesyłka dworcowa",
+    "EN": "Przesyłka dworcowa"
+  },
+  "PEK": {
+    "PL": "Paczka pocztowa ekonomiczna",
+    "EN": "Parcel Economy"
+  },
+  "PL": {
+    "PL": "Paleta",
+    "EN": "Pallet"
+  },
+  "PM": {
+    "PL": "Paczka mała zwykła",
+    "EN": "Parcel Small"
+  },
+  "PMW": {
+    "PL": "Paczka mała wartościowa",
+    "EN": "High Value Parcel Small"
+  },
+  "PP": {
+    "PL": "POCZTEX PROCEDURA",
+    "EN": "POCZTEX PROCEDURE"
+  },
+  "PP1": {
+    "PL": "POCZTEX PROCEDURA powrotna do DOKu",
+    "EN": "POCZTEX PROCEDURE return to origin"
+  },
+  "PP2": {
+    "PL": "POCZTEX PROCEDURA powrotna do nadawcy",
+    "EN": "POCZTEX PROCEDURE return to sender"
+  },
+  "PPL": {
+    "PL": "Przesyłka paletowa",
+    "EN": "Pallet"
+  },
+  "PPLUS": {
+    "PL": "Paczka+",
+    "EN": "Parcel+"
+  },
+  "PPR": {
+    "PL": "Paczka pocztowa priorytetowa",
+    "EN": "Parcel Priority"
+  },
+  "PRZPO": {
+    "PL": "Przekaz pocztowy",
+    "EN": "Money transfer"
+  },
+  "PW": {
+    "PL": "Paczka wartościowa ekonomiczna",
+    "EN": "High Value Parcel Economy"
+  },
+  "PWB": {
+    "PL": "E-Przesyłka paczka pobranie",
+    "EN": "E-Packet Parcel COD"
+  },
+  "PWPR": {
+    "PL": "Paczka wartościowa priorytetowa",
+    "EN": "High Value Parcel Priority"
+  },
+  "PWS": {
+    "PL": "E-Przesyłka paczka",
+    "EN": "E-Packet Parcel"
+  },
+  "PX": {
+    "PL": "Pocztex - Przesyłka kurierska krajowa",
+    "EN": "Pocztex - Courier Packet Domestic"
+  },
+  "PXF1": {
+    "PL": "Pocztex Full Pack 1",
+    "EN": "Pocztex Full Pack 1"
+  },
+  "PXF2": {
+    "PL": "Pocztex Full Pack 2",
+    "EN": "Pocztex Full Pack 2"
+  },
+  "PXN": {
+    "PL": "Pocztex - Przesyłka kurierska krajowa",
+    "EN": "Pocztex - Courier Packet Domestic"
+  },
+  "PXPB": {
+    "PL": "Pocztex pobranie",
+    "EN": "Pocztex COD"
+  },
+  "R": {
+    "PL": "List polecony ekonomiczny",
+    "EN": "Registered Economy"
+  },
+  "RD": {
+    "PL": "List polecony dworcowy",
+    "EN": "List polecony dworcowy"
+  },
+  "RPR": {
+    "PL": "List polecony priorytetowy",
+    "EN": "Registered Priority Packet"
+  },
+  "S": {
+    "PL": "Przesyłka umowna monitorowana",
+    "EN": "Contract Packet Monitored"
+  },
+  "SPR": {
+    "PL": "Przesyłka listowa monitorowana",
+    "EN": "Packet Monitored"
+  },
+  "UK": {
+    "PL": "Usługa Kurierska",
+    "EN": "Courier Service"
+  },
+  "UKPR": {
+    "PL": "UKPR",
+    "EN": "UKPR"
+  },
+  "UP": {
+    "PL": "Usługa Pocztowa",
+    "EN": "Post Service"
+  },
+  "WP": {
+    "PL": "Przesyłka wielopaczkowa",
+    "EN": "Multiple Parcels"
+  },
+  "XXXX": {
+    "PL": "PACZKA",
+    "EN": "PARCEL"
+  }
+}

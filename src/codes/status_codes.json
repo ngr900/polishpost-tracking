@@ -1,0 +1,606 @@
+{
+	"A":{
+		"PL":"Próba doręczenia dokonana dzisiaj",
+		"EN":"Attempted delivery today"
+	},
+	"B":{
+		"PL":"Próba doręczenia zostanie wykonana następnego dnia roboczego",
+		"EN":"Delivery will be attempted tomorrow"
+	},
+	"C":{
+		"PL":"Przesyłka zatrzymana, powiadomienie adresata w toku",
+		"EN":"Package withheld, recipient will be notified"
+	},
+	"D":{
+		"PL":"Nadawca został powiadomiony, oczekuje się na odpowiedź",
+		"EN":"Recipient was notified, waiting for response"
+	},
+	"E":{
+		"PL":"Przesyłka zwrócona do nadawcy",
+		"EN":"Returned to sender"
+	},
+	"G":{
+		"PL":"Przesyłka zatrzymana do kontroli",
+		"EN":"Package "
+	},
+	"P_A":{
+		"PL":"Awizo przesyłki",
+		"EN":"Notification left for recipient"
+	},
+	"P_ADR":{
+		"PL":"Awizo - do ponownego doręczenia",
+		"EN":"Notification left for recipient - will be delivered again"
+	},
+	"P_ADRK":{
+		"PL":"Awizo - do ponownego doręczenia - korekta",
+		"EN":"Notification left for recipient - will be delivered again"
+	},
+	"P_AK":{
+		"PL":"Awizo przesyłki - korekta rezultatu",
+		"EN":"Notification left for recipient - correction"
+	},
+	"P_APP":{
+		"PL":"Awizo - po ponownej próbie doręczenia",
+		"EN":"Notification left for recipient - after another delivery attempt"
+	},
+	"P_APPK":{
+		"PL":"Awizo - po ponownej próbie doręczenia - korekta",
+		"EN":"Notification left for recipient - after another delivery attempt"
+	},
+	"P_AP_ZPO":{
+		"PL":"Pozostawienie w urzędzie przesyłki do przesł. na urząd awiz. ZPO",
+		"EN":"Available for pickup with signature on delivery"
+	},
+	"P_AR_ZPO":{
+		"PL":"Rozliczenie doręczyciela z przesyłki awizowanej w innym urz. ZPO",
+		"EN":""
+	},
+	"P_A_ZPO":{
+		"PL":"Awizo przesyłki ZPO",
+		"EN":"Notification left for recipient"
+	},
+	"P_BRAKN":{
+		"PL":"Brak nadania przesyłki zapowiedzianej w KN",
+		"EN":"Package not shipped after creating a label"
+	},
+	"P_CZDKN":{
+		"PL":"Zwrot przesyłki do kraju nadania",
+		"EN":"Package returned to country of origin"
+	},
+	"P_D":{
+		"PL":"Doręczenie",
+		"EN":"Delivery"
+	},
+	"P_DBR":{
+		"PL":"DB Rozpoczęcie procesu dystrybucji w placówce",
+		"EN":""
+	},
+	"P_DBZ":{
+		"PL":"DB Zakończenie procesu dystrybucji w placówce",
+		"EN":""
+	},
+	"P_DDLW_ZPO":{
+		"PL":"Dołączenie przesyłki do ładunku wewnętrznego ZPO",
+		"EN":""
+	},
+	"P_DDL_ZPO":{
+		"PL":"Dołączenie przesyłki do ładunku ZPO",
+		"EN":""
+	},
+	"P_DDOZ_ZPO":{
+		"PL":"Dołączenie przesyłki do opakowania zbiorczego ZPO",
+		"EN":""
+	},
+	"P_DDP":{
+		"PL":"Przesyłka dostarczona do Punktu",
+		"EN":""
+	},
+	"P_DDP_ZPO":{
+		"PL":"Przesyłka dostarczona do Punktu ZPO",
+		"EN":""
+	},
+	"P_DKAOD":{
+		"PL":"Dodanie do księgi awiz - oczekiwanie na doręczenie",
+		"EN":""
+	},
+	"P_DOAC":{
+		"PL":"Dostarczenie do Agencji Celnej",
+		"EN":""
+	},
+	"P_DOAC_A":{
+		"PL":"Dostarczenie do Agencji Celnej - anulowanie rezultatu",
+		"EN":""
+	},
+	"P_DOAC_K":{
+		"PL":"Dostarczenie do Agencji Celnej - korekta rezultatu",
+		"EN":""
+	},
+	"P_DS":{
+		"PL":"Doręczenie przesyłki do skrzynki oddawczej adresata",
+		"EN":""
+	},
+	"P_D_ZPO":{
+		"PL":"Doręczenie ZPO",
+		"EN":""
+	},
+	"P_KOD":{
+		"PL":"Wprowadzenie przesyłki do księgi oddawczej",
+		"EN":""
+	},
+	"P_KOD_ZPO":{
+		"PL":"Wprowadzenie przesyłki do księgi oddawczej ZPO",
+		"EN":""
+	},
+	"P_KOL":{
+		"PL":"Likwidacja księgi oddawczej po doręczeniu",
+		"EN":""
+	},
+	"P_KWD":{
+		"PL":"Wpis przesyłki do księgi wydanych",
+		"EN":""
+	},
+	"P_KWD_ZPO":{
+		"PL":"Wpis przesyłki do księgi wydanych ZPO",
+		"EN":""
+	},
+	"P_KZU_ZPO":{
+		"PL":"Wycofanie przesyłki z księgi zwrotów ZPO",
+		"EN":""
+	},
+	"P_MD_ZPO":{
+		"PL":"Modyfikacja danych przesyłki ZPO",
+		"EN":""
+	},
+	"P_NAD":{
+		"PL":"Nadanie",
+		"EN":"Posted"
+	},
+	"P_NAD_ZPO":{
+		"PL":"Nadanie ZPO",
+		"EN":"Shipped with signature on delivery"
+	},
+	"P_ND":{
+		"PL":"Nieudane doręczenie",
+		"EN":"Unsuccessful delivery"
+	},
+	"P_NDAC":{
+		"PL":"Niedostarczenie do Agencji Celnej",
+		"EN":""
+	},
+	"P_NDAC_A":{
+		"PL":"Niedostarczenie do Agencji Celnej - anulowanie rezultatu",
+		"EN":""
+	},
+	"P_NDAC_K":{
+		"PL":"Niedostarczenie do Agencji Celnej - korekta rezultatu",
+		"EN":""
+	},
+	"P_NDB":{
+		"PL":"Nieudane doręczenie - zaginięcie",
+		"EN":"Unsuccessful delivery - package lost"
+	},
+	"P_NDB_ZPO":{
+		"PL":"Nieudane doręczenie - zaginięcie ZPO",
+		"EN":"Unsuccessful delivery - package lost"
+	},
+	"P_NDD":{
+		"PL":"Nieudane doręczenie - decyzja o dosłaniu",
+		"EN":"Unsuccessful delivery - package will be sent again"
+	},
+	"P_NDD_ZPO":{
+		"PL":"Nieudane doręczenie - decyzja o dosłaniu ZPO",
+		"EN":"Unsuccessful delivery - package will be sent again"
+	},
+	"P_NDK":{
+		"PL":"Nieudane doręczenie - korekta rezultatu",
+		"EN":"Unsuccessful delivery - correction"
+	},
+	"P_NDPD":{
+		"PL":"Nieudane doręczenie - kolejna próba dziś",
+		"EN":"Unsuccessful delivery - another attempt today"
+	},
+	"P_NDPJ":{
+		"PL":"Nieudane doręczenie - kolejna próba jutro",
+		"EN":"Unsuccessful delivery - another attempt tomorrow"
+	},
+	"P_NDPZ_ZPO":{
+		"PL":"Przesyłka niedostarczona do punktu ZPO",
+		"EN":"Unsuccessful delivery to service point"
+	},
+	"P_NDZ":{
+		"PL":"Nieudane doręczenie - decyzja o zwrocie",
+		"EN":"Unsuccessful delivery - package will be returned"
+	},
+	"P_NDZAP":{
+		"PL":"Nieudane doręczenie - zatrzymana - adresat powiadomiony",
+		"EN":"Unsuccessful delivery - package withheld, recipient was notified"
+	},
+	"P_NDZK":{
+		"PL":"Nieudane doręczenie - decyzja o zwrocie - korekta rezultatu",
+		"EN":"Unsuccessful delivery - package will be returned"
+	},
+	"P_NDZKON":{
+		"PL":"Nieudane doręczenie - zatrzymana - do kontroli",
+		"EN":"Unsuccessful delivery - package withheld for inspection"
+	},
+	"P_ND_ZPO":{
+		"PL":"Nieudane doręczenie ZPO",
+		"EN":"Unsuccessful delivery"
+	},
+	"P_NDZ_ZPO":{
+		"PL":"Nieudane doręczenie - decyzja o zwrocie ZPO",
+		"EN":"Unsuccessful delivery - package will be returned"
+	},
+	"P_NM_ZPO":{
+		"PL":"Nadanie masowe ZPO",
+		"EN":"Mass posting"
+	},
+	"P_NOWU":{
+		"PL":"Nieudane wydanie - do ponownego wydania",
+		"EN":"Unsuccessful pickup"
+	},
+	"P_NPAC":{
+		"PL":"Nieodebranie z Agencji Celnej",
+		"EN":"Not picked up from customs agency"
+	},
+	"P_NPAC_A":{
+		"PL":"Nieodebranie z Agencji Celnej - anulowanie rezultatu",
+		"EN":"Not picked up from customs agency"
+	},
+	"P_NPAC_K":{
+		"PL":"Nieodebranie z Agencji Celnej - korekta rezultatu",
+		"EN":"Not picked up from customs agency"
+	},
+	"P_OWP":{
+		"PL":"Przesyłka odebrana w Punkcie",
+		"EN":"Picked up at service point"
+	},
+	"P_OWU":{
+		"PL":"Odebranie przesyłki w urzędzie",
+		"EN":"Picked up at post office"
+	},
+	"P_OWUK":{
+		"PL":"Odebranie w urzędzie (korekta rezultatu)",
+		"EN":"Picked up at post office"
+	},
+	"P_OWUWPP":{
+		"PL":"Odebranie przesyłki w urzędzie wymiany (poczta przychodząca)",
+		"EN":"Picked up at post office"
+	},
+	"P_OWUWPW":{
+		"PL":"Odebranie przesyłki w urzędzie wymiany (poczta wychodząca)",
+		"EN":"Picked up at post office"
+	},
+	"P_OWU_ZPO":{
+		"PL":"Odebranie przesyłki w urzędzie ZPO",
+		"EN":"Picked up at post office"
+	},
+	"P_OZTW_ZPO":{
+		"PL":"Odebranie przesyłki z transportu wewnętrznego ZPO",
+		"EN":"Picked up at post office"
+	},
+	"P_PA":{
+		"PL":"Ponowne awizo",
+		"EN":"Repeat notification left for recipient"
+	},
+	"P_PA_ZPO":{
+		"PL":"Ponowne awizo ZPO",
+		"EN":"Repeat notification left for recipient"
+	},
+	"P_PCP":{
+		"PL":"Przyjęcie przesyłki na cle - przywóz",
+		"EN":"Package received at customs - inbound"
+	},
+	"P_PCWY":{
+		"PL":"Przekazanie przesyłki do cła - wywóz",
+		"EN":"Package received at customs - outbound"
+	},
+	"P_PDLUC":{
+		"PL":"Przekazanie do lokalnego urzędu pocztowo-celnego",
+		"EN":"Relayed to local postal-customs office"
+	},
+	"P_PKN":{
+		"PL":"Nieudana próba kontaktu z adresatem przed doręczeniem",
+		"EN":"Unsuccessful attemp to contact recipient before delivery"
+	},
+	"P_PKP":{
+		"PL":"Nawiązano kontakt z adresatem przed doręczeniem",
+		"EN":"Contacted recipient before delivery"
+	},
+	"P_POAC":{
+		"PL":"Odebranie z Agencji Celnej",
+		"EN":"Picked up from customs agency"
+	},
+	"P_POAC_A":{
+		"PL":"Odebranie z Agencji Celnej - anulowanie rezultatu",
+		"EN":"Picked up from customs agency"
+	},
+	"P_POAC_K":{
+		"PL":"Odebranie z Agencji Celnej - korekta rezultatu",
+		"EN":"Picked up from customs agency"
+	},
+	"P_POOE":{
+		"PL":"Powiadomienie email o odebraniu przesyłki",
+		"EN":"Email notification - package received"
+	},
+	"P_POOS":{
+		"PL":"Powiadomienie sms o odebraniu przesyłki",
+		"EN":"SMS notification - package received"
+	},
+	"P_POWE":{
+		"PL":"Powiadomienie email o oczekiwaniu przesyłki w urzędzie",
+		"EN":"Email notification - package waiting for pickup at post office"
+	},
+	"P_POWS":{
+		"PL":"Powiadomienie sms o oczekiwaniu przesyłki w urzędzie",
+		"EN":"SMS notification - package waiting for pickup at post office"
+	},
+	"P_POZE":{
+		"PL":"Powiadomienie email o zwrocie przesyłki",
+		"EN":"Email notification - package returned to sender"
+	},
+	"P_POZS":{
+		"PL":"Powiadomienie sms o zwrocie przesyłki",
+		"EN":"SMS notification - package returned to sender"
+	},
+	"P_PWP":{
+		"PL":"Przesyłka przyjęta w punkcie",
+		"EN":"Package accepted at service point"
+	},
+	"P_PZL":{
+		"PL":"Przyjęcie przesyłki z ładunkiem",
+		"EN":"Package accepted"
+	},
+	"P_PZL_ZPO":{
+		"PL":"Przyjęcie przesyłki z ładunkiem ZPO",
+		"EN":"Package accepted"
+	},
+	"P_R":{
+		"PL":"Nieudane doręczenie - przechowywanie na życzenie",
+		"EN":"Unsuccessful delivery - on demand storage"
+	},
+	"P_RDML":{
+		"PL":"Rozliczenie KD przez listonosza",
+		"EN":""
+	},
+	"P_REJ":{
+		"PL":"Rejestracja przesyłki",
+		"EN":"Package registered"
+	},
+	"P_REJ_KN":{
+		"PL":"Rejestracja przesyłki z KN",
+		"EN":"Package registered"
+	},
+	"P_ROZ_ZPO":{
+		"PL":"Rozliczenie przesyłki w dokumencie oddawczym ZPO",
+		"EN":""
+	},
+	"P_RUD":{
+		"PL":"Rejestracja przesyłki w urzędzie doręczenia",
+		"EN":"Package registered at destionation post office"
+	},
+	"P_R_ZPO":{
+		"PL":"Nieudane doręczenie - przechowywanie na życzenie ZPO",
+		"EN":"Unsuccessful delivery - on demand storage"
+	},
+	"P_S":{
+		"PL":"Pozostawienie przesyłki w skrytce",
+		"EN":"Package left in post office box"
+	},
+	"P_SCP":{
+		"PL":"Skierowanie przesyłki przez cło - przywóz",
+		"EN":"Package redirected by customs - inbound"
+	},
+	"P_SDUNPK":{
+		"PL":"skierowanie do urzędu niedoręczalnych przesyłek (korekta rez.)",
+		"EN":""
+	},
+	"P_SDUNPZPO":{
+		"PL":"Skierowanie do urzędu niedoręczalnych przesyłek ZPO",
+		"EN":""
+	},
+	"P_S_ZPO":{
+		"PL":"Pozostawienie przesyłki w skrytce ZPO",
+		"EN":"Package left in post office box"
+	},
+	"P_UDO_ZPO":{
+		"PL":"Utworzenie przesyłki w placówce oddawczej - dok. oddawczy ZPO",
+		"EN":""
+	},
+	"P_UKEPO":{
+		"PL":"Udostępnienie karty EPO",
+		"EN":""
+	},
+	"P_URZ_ZPO":{
+		"PL":"Utworzenie przesyłki w placówce oddawczej rejest. zapleczowa ZPO",
+		"EN":""
+	},
+	"P_USZ":{
+		"PL":"Uszkodzenie przesyłki",
+		"EN":"Package damaged"
+	},
+	"P_USZ_ZPO":{
+		"PL":"Uszkodzenie przesyłki ZPO",
+		"EN":"Package damaged"
+	},
+	"P_WD":{
+		"PL":"Wydanie przesyłki doręczycielowi",
+		"EN":"Package issued for delivery"
+	},
+	"P_WDUNP":{
+		"PL":"Wejście przesyłki do urzędu niedoręczalnych przesyłek",
+		"EN":""
+	},
+	"P_WD_ZPO":{
+		"PL":"Wydanie przesyłki doręczycielowi ZPO",
+		"EN":"Package issued for delivery"
+	},
+	"P_WEMAIL":{
+		"PL":"Wysłanie e-mail dla przesyłki",
+		"EN":"Email sent"
+	},
+	"P_WEMAIL02":{
+		"PL":"Powiadomienie e-mail o doręczeniu przes. do skrzynki pocztowej",
+		"EN":"Email notification - package delivered to post office box"
+	},
+	"P_WEOC":{
+		"PL":"Przyjęcie przesyłki w kraju przeznaczenia",
+		"EN":"Package arrived at destination country"
+	},
+	"P_WEPL":{
+		"PL":"Przyjęcie przesyłki w Polsce",
+		"EN":"Package arrived in Poland"
+	},
+	"P_WFAX":{
+		"PL":"Wysłanie faksu dla przesyłki",
+		"EN":""
+	},
+	"P_WMU_ZPO":{
+		"PL":"Usunięcie mylnego wpisu przesyłki ZPO",
+		"EN":""
+	},
+	"P_WM_ZPO":{
+		"PL":"Mylny wpis przesyłki ZPO",
+		"EN":""
+	},
+	"P_WN2":{
+		"PL":"Negatywna weryfikacja przesyłki proceduralnej w jedn. oddawczej",
+		"EN":""
+	},
+	"P_WN3":{
+		"PL":"Negatywna weryfikacja przesyłki proceduralnej w DOK",
+		"EN":""
+	},
+	"P_WP2":{
+		"PL":"Pozytywna weryfikacja przesyłki proceduralnej w jedn. oddawczej",
+		"EN":""
+	},
+	"P_WP3":{
+		"PL":"Pozytywna weryfikacja przesyłki proceduralnej w DOK",
+		"EN":""
+	},
+	"P_WPUCPP":{
+		"PL":"Zwolnienie przesyłki przez urząd celny (poczta przychodząca)",
+		"EN":""
+	},
+	"P_WPUCWKP":{
+		"PL":"Zwolnienie przesyłki przez urząd celny w kraju przeznaczenia",
+		"EN":""
+	},
+	"P_WSMS":{
+		"PL":"Wysłanie SMS dla przesyłki",
+		"EN":"SMS sent"
+	},
+	"P_WSMS02":{
+		"PL":"Powiadomienie SMS o doręczeniu przesyłki do skrzynki pocztowej",
+		"EN":"SMS notification - package delivered to post office box"
+	},
+	"P_WUPD":{
+		"PL":"Wydanie przesyłki uprawnionemu do odbioru",
+		"EN":"Package delivered to authorized person"
+	},
+	"P_WVOICE":{
+		"PL":"Powiadomienie głosowe dla przesyłki",
+		"EN":"Voice notification"
+	},
+	"P_WYOC":{
+		"PL":"Wysłanie przesyłki z kraju nadania",
+		"EN":"Package dispatched from origin country"
+	},
+	"P_WYPL":{
+		"PL":"Wysłanie przesyłki z Polski",
+		"EN":"Package dispatched from Poland"
+	},
+	"P_WZL":{
+		"PL":"Wysłanie przesyłki z ładunkiem",
+		"EN":"Package dispatched"
+	},
+	"P_WZL_ZPO":{
+		"PL":"Wysłanie przesyłki z ładunkiem ZPO",
+		"EN":"Package dispatched"
+	},
+	"P_WZOZ_ZPO":{
+		"PL":"Wyciągnięcie przesyłki z opakowania zbiorczego ZPO",
+		"EN":""
+	},
+	"P_Z":{
+		"PL":"Załadunek przesyłki",
+		"EN":""
+	},
+	"P_ZAG":{
+		"PL":"Zaginięcie przesyłki",
+		"EN":"Package lost"
+	},
+	"P_ZAG_ZPO":{
+		"PL":"Zaginięcie przesyłki ZPO",
+		"EN":"Package lost"
+	},
+	"P_ZDD":{
+		"PL":"Zmiana danych doręczenia",
+		"EN":""
+	},
+	"P_ZDUN":{
+		"PL":"Zwrot przesyłki do urzędu nadania",
+		"EN":"Package returned to origin post office"
+	},
+	"P_ZDUN_ZPO":{
+		"PL":"Zwrot przesyłki do urzędu nadania ZPO",
+		"EN":"Package returned to origin post office"
+	},
+	"P_ZKK":{
+		"PL":"Zmiana kanału komunikacji",
+		"EN":""
+	},
+	"P_ZKK_ZPO":{
+		"PL":"Zmiana kanału komunikacji ZPO",
+		"EN":""
+	},
+	"P_ZNISZ":{
+		"PL":"Przesyłka uległa zniszczeniu w wyniku pożaru",
+		"EN":"Package was destroyed in a fire"
+	},
+	"P_ZPD":{
+		"PL":"Doręczenie na życzenie - do ponownego doręczenia",
+		"EN":""
+	},
+	"P_ZPNA":{
+		"PL":"Doręczenie na życzenie - przesyłka dosłana",
+		"EN":""
+	},
+	"P_ZPNP":{
+		"PL":"Doręczenie na życzenie - nieudana próba doręczenia",
+		"EN":""
+	},
+	"P_ZPO":{
+		"PL":"Nadanie zwrotnego potwierdzenia odbioru",
+		"EN":""
+	},
+	"P_ZPUCPP":{
+		"PL":"Zatrzymanie przesyłki przez urząd celny (poczta przychodząca)",
+		"EN":"Withheld by customs (incoming mail)"
+	},
+	"P_ZPUCWKP":{
+		"PL":"Zatrzymanie przesyłki przez urząd celny w kraju przeznaczenia",
+		"EN":"Withheld by customs in destination country"
+	},
+	"P_ZPWM":{
+		"PL":"Doręczenie na życzenie - wydanie z magazynu",
+		"EN":""
+	},
+	"P_ZWC":{
+		"PL":"Zatrzymanie przesyłki w cle",
+		"EN":"Withheld by customs"
+	},
+	"P_ZWMC":{
+		"PL":"Zatrzymanie przesyłki w magazynie celnym",
+		"EN":"Withheld at customs warehouse"
+	},
+	"P_ZZC":{
+		"PL":"Zwrot przesyłki z cła",
+		"EN":"Returned from customs"
+	},
+	"P_ZZPZ":{
+		"PL":"Przesyłka nieodebrana w punkcie",
+		"EN":"Unclaimed at service point"
+	}
+}

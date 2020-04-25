@@ -1,0 +1,17 @@
+{
+  "name": "polishpost-tracking",
+  "version": "0.1.0",
+  "description": "a simple wrapper for the Polish Post's package tracking API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "polish",
+    "post",
+    "tracking",
+    "ecommerce"
+  ],
+  "author": "Kamil Szydlowski (ngr900@gmail.com)",
+  "license": "MIT"
+}
