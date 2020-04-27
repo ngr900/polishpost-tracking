@@ -1,7 +1,7 @@
 # polishpost-tracking
 A simple NodeJS wrapper for the Polish Post's SOAP package tracking API. The heavy lifting is done by [node-soap](https://github.com/vpulim/node-soap), this package just provides some convenience methods and translates the responses.
 
-# Usage
+## Usage
 
 ```
 npm install polishpost-tracking
@@ -17,6 +17,10 @@ const client = await polishpost.connect({
 
 const package = await client.trackPackage('RR0123456789PL')
 ```
+
+## Dependencies
+
+- [node-soap](https://github.com/vpulim/node-soap)
 
 # Module
 
