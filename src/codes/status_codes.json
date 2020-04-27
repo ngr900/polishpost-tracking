@@ -125,11 +125,11 @@
 	},
 	"P_KOD":{
 		"PL":"Wprowadzenie przesyłki do księgi oddawczej",
-		"EN":""
+		"EN":"Package entered into return books"
 	},
 	"P_KOD_ZPO":{
 		"PL":"Wprowadzenie przesyłki do księgi oddawczej ZPO",
-		"EN":""
+		"EN":"Package entered into return books"
 	},
 	"P_KOL":{
 		"PL":"Likwidacja księgi oddawczej po doręczeniu",
@@ -409,7 +409,7 @@
 	},
 	"P_UKEPO":{
 		"PL":"Udostępnienie karty EPO",
-		"EN":""
+		"EN":"EPO Card Issued"
 	},
 	"P_URZ_ZPO":{
 		"PL":"Utworzenie przesyłki w placówce oddawczej rejest. zapleczowa ZPO",

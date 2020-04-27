@@ -4,14 +4,22 @@
   "description": "a simple wrapper for the Polish Post's package tracking API",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "keywords": [
-    "polish",
-    "post",
+    "polish post",
+    "poczta polska",
     "tracking",
     "ecommerce"
   ],
   "author": "Kamil Szydlowski (ngr900@gmail.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "soap": "^0.31.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^7.1.2"
+  }
 }

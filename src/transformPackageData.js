@@ -5,30 +5,34 @@ const codes = {
 	packageTypes : require('./codes/package_types.json'),
 }
 
-function transformPackageData(data) {
+function transformPackageData(data, language) {
   data = data.danePrzesylki;
 
   const packageData = {
     number : data.numer,
-    originCountry : data.kodKrajuNadania,
-    destinationCountry : data.kodKrajuPrzezn,
+    originCountryCode : data.kodKrajuNadania,
+    originCountry : codes.countryCodes[data.kodKrajuNadania][language],
+    destinationCountryCode : data.kodKrajuPrzezn,
+    destinationCountry : codes.countryCodes[data.kodKrajuPrzezn][language],
     shippingDate : new Date(data.dataNadania).getTime()/1000,
-    packageType : data.kodRodzPrzes,
+    packageTypeCode : data.kodRodzPrzes,
+    packageType : codes.packageTypes[data.kodRodzPrzes][language],
     serviceFinished : data.zakonczonoObsluge,
     packageMass : data.masa ? Math.round(data.masa*1000) : undefined,
     packageFormat : data.format,
     originPostOffice : transformTransitPointData ( data.urzadNadania ),
     destinationPostOffice : transformTransitPointData ( data.urzadPrzezn ),
-    events : transformEvents ( data.zdarzenia.zdarzenie )
+    events : transformEvents ( data.zdarzenia.zdarzenie, language )
   };
 
   return packageData;
 }
 
-function transformEvents ( data ) {
+function transformEvents ( data, language ) {
   return data.map ( edata => {
     return {
       time : new Date(edata.czas).getTime()/1000,
+      name : codes.statusCodes[edata.kod][language],
       code : edata.kod,
       final : edata.konczace,
       transitPoint : transformTransitPointData(edata.jednostka)
